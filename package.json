@@ -1,0 +1,14 @@
+{
+	"name": "intent-utils",
+	"version": "0.0.1",
+	"description": "Intent utils",
+	"main": "src/index.js",
+	"types": "src/index.d.ts",
+	"scripts": {
+	},
+	"keywords": [
+		"intent-utils"
+	],
+	"author": "ankhzet@gmail.com",
+	"license": "ISC"
+}
